@@ -1,6 +1,6 @@
-# S0012E Engine
+# S0011E Engine
 
-A lightweight engine for assignments in S0012E.
+A lightweight engine for assignments in S0011E.
 Check out the projects folder!
 
 This engine is a work in progress, and things might not work as intended. Bugs and/or instabilities are to be expected.
